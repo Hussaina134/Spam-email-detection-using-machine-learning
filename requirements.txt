@@ -8,3 +8,5 @@ nltk
 PyPDF2
 imbalanced-learn
 lime
+plotly
+
